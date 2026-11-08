@@ -67,7 +67,7 @@
   "resources": {
     "resources": [
       {
-        "file": "assets/background.svg",
+        "file": "assets/background.png",
         "kind": "image",
         "metadata": "",
         "name": "background",
@@ -75,7 +75,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/valve-closed.svg",
+        "file": "assets/valve-closed.png",
         "kind": "image",
         "metadata": "",
         "name": "valve-closed",
@@ -83,7 +83,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/valve-open.svg",
+        "file": "assets/valve-open.png",
         "kind": "image",
         "metadata": "",
         "name": "valve-open",
@@ -91,7 +91,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/source-ring.svg",
+        "file": "assets/source-ring.png",
         "kind": "image",
         "metadata": "",
         "name": "source-ring",
@@ -99,7 +99,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/next-ring.svg",
+        "file": "assets/next-ring.png",
         "kind": "image",
         "metadata": "",
         "name": "next-ring",
@@ -107,7 +107,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/flame.svg",
+        "file": "assets/flame.png",
         "kind": "image",
         "metadata": "",
         "name": "flame",
@@ -115,7 +115,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/flame-hot.svg",
+        "file": "assets/flame-hot.png",
         "kind": "image",
         "metadata": "",
         "name": "flame-hot",
@@ -123,7 +123,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/flame-low.svg",
+        "file": "assets/flame-low.png",
         "kind": "image",
         "metadata": "",
         "name": "flame-low",
@@ -131,7 +131,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/energy-fill.svg",
+        "file": "assets/energy-fill.png",
         "kind": "image",
         "metadata": "",
         "name": "energy-fill",
@@ -139,7 +139,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/heat-fill.svg",
+        "file": "assets/heat-fill.png",
         "kind": "image",
         "metadata": "",
         "name": "heat-fill",
@@ -147,7 +147,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/pulse-fill.svg",
+        "file": "assets/pulse-fill.png",
         "kind": "image",
         "metadata": "",
         "name": "pulse-fill",
@@ -155,7 +155,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/vent-button.svg",
+        "file": "assets/vent-button.png",
         "kind": "image",
         "metadata": "",
         "name": "vent-button",
@@ -163,7 +163,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/overlay.svg",
+        "file": "assets/overlay.png",
         "kind": "image",
         "metadata": "",
         "name": "overlay",
@@ -171,7 +171,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/button.svg",
+        "file": "assets/button.png",
         "kind": "image",
         "metadata": "",
         "name": "button",
@@ -179,7 +179,7 @@
         "userAdded": true
       },
       {
-        "file": "assets/pause-overlay.svg",
+        "file": "assets/pause-overlay.png",
         "kind": "image",
         "metadata": "",
         "name": "pause-overlay",

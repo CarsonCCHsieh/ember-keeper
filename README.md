@@ -9,3 +9,5 @@ OpenAI Codex assisted with game design, original artwork, native event authoring
 Open `game.json` in GDevelop. Keep the adjacent `assets/` directory with the project. The game canvas is 1280 × 800; the cover artwork is a separate image.
 
 Original source and artwork are MIT licensed; see `LICENSE` and the included engine/dependency notices for their respective terms.
+
+The editable project uses PNG renderings of the original SVG artwork for gd.games hosting compatibility. Both formats are included in `assets/`; rasterization preserves intrinsic dimensions and transparency. Gameplay and native event logic are unchanged. The source SVGs remain editable.
