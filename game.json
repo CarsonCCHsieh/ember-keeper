@@ -1060,7 +1060,7 @@
           "name": "Controls",
           "persistentUuid": "a041fa8a-6d16-4ee3-b121-6b3b43637ca4",
           "width": 0,
-          "x": 62,
+          "x": 360,
           "y": 750,
           "zOrder": 20,
           "numberProperties": [],
@@ -3530,7 +3530,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "1–6 or click: toggle valve     SPACE: close all     P: pause     R: restart",
+          "string": "1–6 / click: valve   SPACE: close all   P: pause   R: restart",
           "font": "",
           "textAlignment": "left",
           "characterSize": 17,
@@ -3553,7 +3553,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "1–6 or click: toggle valve     SPACE: close all     P: pause     R: restart",
+            "text": "1–6 / click: valve   SPACE: close all   P: pause   R: restart",
             "font": "",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -3700,7 +3700,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Open the GOLD valve before each energy pulse.\nThe VIOLET ring shows the next route.\n\nEvery open valve makes heat. Close all to cool.\nToo cold: the flame dies. Too hot: the core breaks.",
+          "string": "Open the GOLD valve before an energy pulse.\nVIOLET previews the next route.\n\nTry 3 feeds, then CLOSE ALL for 1 cooling pulse.\nEven one valve makes heat. An empty ember dies.",
           "font": "",
           "textAlignment": "left",
           "characterSize": 23,
@@ -3723,7 +3723,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Open the GOLD valve before each energy pulse.\nThe VIOLET ring shows the next route.\n\nEvery open valve makes heat. Close all to cool.\nToo cold: the flame dies. Too hot: the core breaks.",
+            "text": "Open the GOLD valve before an energy pulse.\nVIOLET previews the next route.\n\nTry 3 feeds, then CLOSE ALL for 1 cooling pulse.\nEven one valve makes heat. An empty ember dies.",
             "font": "",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -6394,7 +6394,7 @@
               "parameters": [
                 "FinishBody",
                 "=",
-                "\"Keeping every route open leaves no room to breathe.\""
+                "\"Even one open valve builds heat.\" + NewLine() + \"A full ember still needs a cooling pulse.\""
               ]
             },
             {
@@ -6404,7 +6404,7 @@
               "parameters": [
                 "FinishTip",
                 "=",
-                "\"Close all for a pulse or two when heat climbs.\""
+                "\"Close all for one pulse to cool, then feed again.\""
               ]
             },
             {
